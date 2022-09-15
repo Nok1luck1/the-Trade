@@ -1,0 +1,18 @@
+{
+    "homestead": {
+        "old": {},
+        "new": {
+            "LimitOrdersController": "0x1EC5347B1eB0E6657BD2cf3250C483B9A22aDcD0",
+            "Minter": "0x5712736Cda9753425176dE19b938E16F0019e546",
+            "WBTC": "0x9FfF90d924590845488F16A49f37e987f6cB8A74",
+            "USDC": "0xd84Afd9368fE8F7Aa8Df3aE47426001bBCD96de2",
+            "WXRP": "0x8B0375aa6f8dD47b7dE3c18ad4f2e34efB198177",
+            "USDT": "0xa5e237B69aD66094f7B58438d1f0859781d64299",
+            "UNI": "0x4dC82275A1b1492052667fcBE906714314eBb3Fe",
+            "DAI": "0xF37d06837901beFd58Efac6717B804629d9Ee28a",
+            "CELO": "0x1Cb2eAfd60B13c460c04BF65364f12d6D3246Cb7",
+            "BLZ": "0x23Bcccdb9cF88ed103F580AaeE11B1dFBCd2b12B",
+            "Controller": "0x001F04112ea0B818D286B376ff7572c273edcD74"
+        }
+    }
+}

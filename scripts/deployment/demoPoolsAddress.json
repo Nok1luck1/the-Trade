@@ -1,0 +1,47 @@
+{
+    "homestead": {
+        "pools": {
+            "WXRP/USDC": {
+                "500": {
+                    "poolAddress": "0x5eeB82C190767049d51d32fcD0f89C5181696352",
+                    "token0": "0x8b0375aa6f8dd47b7de3c18ad4f2e34efb198177",
+                    "token1": "0xd84afd9368fe8f7aa8df3ae47426001bbcd96de2"
+                },
+                "3000": {
+                    "poolAddress": "0x3f3ecF02E4f6B2395e0a148F5977705A3dF74206",
+                    "token0": "0x8b0375aa6f8dd47b7de3c18ad4f2e34efb198177",
+                    "token1": "0xd84afd9368fe8f7aa8df3ae47426001bbcd96de2"
+                },
+                "10000": {
+                    "poolAddress": "0x55E5aF8e5DaD577D7a727CE71a2FF6d0f0e12f7C",
+                    "token0": "0x8b0375aa6f8dd47b7de3c18ad4f2e34efb198177",
+                    "token1": "0xd84afd9368fe8f7aa8df3ae47426001bbcd96de2"
+                }
+            },
+            "WBTC/USDT": {
+                "500": {
+                    "poolAddress": "0xeC4F27A59f740f6F3B1F4822fb705CD9425EC2f3",
+                    "token0": "0x9fff90d924590845488f16a49f37e987f6cb8a74",
+                    "token1": "0xa5e237b69ad66094f7b58438d1f0859781d64299"
+                },
+                "3000": {
+                    "poolAddress": "0x81f2b759D752EB136b977D356e125089d496bfb8",
+                    "token0": "0x9fff90d924590845488f16a49f37e987f6cb8a74",
+                    "token1": "0xa5e237b69ad66094f7b58438d1f0859781d64299"
+                }
+            },
+            "UNI/DAI": {
+                "3000": {
+                    "poolAddress": "0x92a04e1dcB4ea51C6A1d3EbcC44Cd46C59CA7669",
+                    "token0": "0x4dc82275a1b1492052667fcbe906714314ebb3fe",
+                    "token1": "0xf37d06837901befd58efac6717b804629d9ee28a"
+                },
+                "10000": {
+                    "poolAddress": "0x99cBf7631337EEc39a2ADeFBDa602C980AcDE6eB",
+                    "token0": "0x4dc82275a1b1492052667fcbe906714314ebb3fe",
+                    "token1": "0xf37d06837901befd58efac6717b804629d9ee28a"
+                }
+            }
+        }
+    }
+}
